@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "artech-dashboard",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

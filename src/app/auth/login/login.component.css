@@ -1,0 +1,21 @@
+.shadow-effect{
+    border: none;
+    box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.5);
+}
+
+.btn-theme{
+    height: 42px;
+    border: none;
+    font-size: 16px;
+    background-color: var(--primary-color);
+}
+
+.bg-secondary-theme{
+    background-color: var(--secondary-color);
+}
+
+
+.text-theme-primary{
+    color:var(--primary-color)  ;
+}
+
